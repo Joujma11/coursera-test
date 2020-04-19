@@ -1,0 +1,19 @@
+<!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
+<script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script><!-- ONE STEP TO INSTALL UP & DOWN BOX:
+
+  1.  Copy the coding into the BODY of your HTML document  -->
+
+<!-- STEP ONE: Paste this code into the BODY of your HTML document  -->
+
+<BODY>
+
+<center>
+<form>
+<input type=text name=amount value=5>
+<input type=button value="up" onClick="javascript:this.form.amount.value++;">
+<input type=button value="down" onClick="javascript:this.form.amount.value--;">
+</form>
+</center>
+
+
+<!-- Script Size:  0.45 KB --><a target="_blank" href="http://free-web-tools.com/image-fall-like-snow/" style="text-decoration:none;bottom:0;left:10px;font-size:5pt;color:gray;position:absolute">javascript snow</a><a target="_blank" href="http://www.htmlfreecodes.com" style="font-size: 8pt; text-decoration: none">Html Codes</a>
